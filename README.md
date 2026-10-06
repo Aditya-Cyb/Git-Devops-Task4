@@ -40,6 +40,3 @@ main → dev → feature → Pull Request → dev → Pull Request → main
 Git-Devops-Task4/
 ├── README.md
 └── .gitignore
-
-## Feature Update
-This update was developed on the feature branch.
